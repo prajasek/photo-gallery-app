@@ -24,7 +24,7 @@ client/*.ntvs*
 client/*.njsproj
 client/*.sln
 client/*.sw?
-
+*/.env
 
 server/node_modules
 server/logs
